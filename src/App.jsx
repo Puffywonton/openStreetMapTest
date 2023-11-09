@@ -11,17 +11,17 @@ function App() {
     {
       geocode: [48.86, 2.3522],
       popUp: "caca 1",
-      img: "/pictures/macaron.jpg"
+      img: "./pictures/macaron.jpg"
     },
     {
       geocode: [48.85, 2.3522],
       popUp: "caca 2",
-      img: "/pictures/zemmour.jpg"
+      img: "./pictures/zemmour.jpg"
     },
     {
       geocode: [48.855, 2.34],
       popUp: "caca 3",
-      img: "/pictures/sardine.jpg"
+      img: "./pictures/sardine.jpg"
     },
   ])
 
@@ -37,7 +37,7 @@ function App() {
       {
         geocode: [48.845, 2.3545],
         popUp: "nouveau caca",
-        img: "/public/pictures/merluche.jpg"
+        img: "./pictures/merluche.jpg"
       }
     ]) 
     console.log('added caca')
