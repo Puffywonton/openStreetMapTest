@@ -11,17 +11,17 @@ function App() {
     {
       geocode: [48.86, 2.3522],
       popUp: "caca 1",
-      img: "/public/pictures/macaron.jpg"
+      img: "/pictures/macaron.jpg"
     },
     {
       geocode: [48.85, 2.3522],
       popUp: "caca 2",
-      img: "/public/pictures/zemmour.jpg"
+      img: "/pictures/zemmour.jpg"
     },
     {
       geocode: [48.855, 2.34],
       popUp: "caca 3",
-      img: "/public/pictures/sardine.jpg"
+      img: "/pictures/sardine.jpg"
     },
   ])
 
